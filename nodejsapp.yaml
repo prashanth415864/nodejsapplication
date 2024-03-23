@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: nodejs-app
-        image: "prashanth415864/nodejsapp-1.0:latest"
+        image: "prashanth415864/jhooq-docker-demo:jhooq-docker-demo"
         ports:
           - containerPort: 3000
 ---
